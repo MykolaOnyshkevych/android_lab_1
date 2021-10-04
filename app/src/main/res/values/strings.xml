@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidLab1</string>
+    <string name="hello_world_top">Hello World! TOP</string>
+    <string name="hello_world_bottom" translatable="false">Hello World! BOTTOM</string>
+    <string name="sign_in_button_text" translatable="false">Sign in</string>
+    <string name="sign_up_button_text" translatable="false">Sign up</string>
+    <string name="welcome_text_style" translatable="false">Welcome!</string>
+    <string name="confirm_name_text" translatable="false">Name</string>
+    <string name="confirm_email_text" translatable="false">Email</string>
+    <string name="password_text" translatable="false">Password</string>
+    <string name="password_confirm_text" translatable="false">Confirm Password</string>
+    <string name="for_no_account" translatable="false">Don\'t have an account? Sign up!</string>
+    <string name="congrats_text" translatable="false">Congrats! You have signed in!!</string>
+    <string name="congrats_sign_up_text">Congrats! You have an account!</string>
+</resources>
